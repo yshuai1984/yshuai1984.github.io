@@ -1,7 +1,7 @@
 ---
 title: "Genetic dissection of active forgetting in labile and consolidated memories in Drosophila"
 collection: publications
-category: manuscripts
+category: forgetting
 permalink: /publication/2019-10-15-RacDownstream
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: Oct 15, 2019

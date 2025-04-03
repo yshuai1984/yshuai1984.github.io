@@ -1,7 +1,7 @@
 ---
 title: "A modular chemigenetic calcium indicator for multiplexed in vivo functional imaging"
 collection: publications
-category: manuscripts
+category: chemigenetic
 permalink: /publication/2024-09-20-WHaloCaMP
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: Sep 20, 2024

@@ -1,7 +1,7 @@
 ---
 title: "Distinct molecular underpinnings of Drosophila olfactory trace conditioning"
 collection: publications
-category: manuscripts
+category: forgetting
 permalink: /publication/2011-12-13-TraceConditioning
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: Dec 13, 2011

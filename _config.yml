@@ -83,6 +83,14 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  forgetting:
+    title: 'Forgetting and Rac Pathway'
+  optolearning:
+    title: 'Optogenetic Learning Platform'
+  chemigenetic:
+    title: 'Chemigenetic indicators and In-vivo Application'
+  reviews:
+    title: 'Reviews'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

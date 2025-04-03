@@ -1,7 +1,7 @@
 ---
 title: "Dissecting neural pathways for forgetting in Drosophila olfactory aversive memory"
 collection: publications
-category: manuscripts
+category: forgetting
 permalink: /publication/2015-11-16-ForgettingCircuit
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: Nov 16, 2015

@@ -1,7 +1,7 @@
 ---
 title: "Forgetting Is Regulated through Rac Activity in Drosophila"
 collection: publications
-category: manuscripts
+category: forgetting
 permalink: /publication/2010-02-19-RacForgetting
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: Feb 19, 2010
